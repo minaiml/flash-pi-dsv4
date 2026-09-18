@@ -1,0 +1,14 @@
+{
+  "fork": "minaiml/flash-pi-dsv4",
+  "source": "danveloper/flash-pi-dsv4",
+  "source_url": "https://github.com/danveloper/flash-pi-dsv4",
+  "commit": "3f4741838b567a7b2e562333f90ea6e48637ab2a",
+  "branch": "main",
+  "fetched": "2026-09-18",
+  "upstream_license": null,
+  "upstream_license_name": null,
+  "role": "single-board engine — DeepSeek-V4-Flash on a Raspberry Pi 5",
+  "note": "No licence is declared upstream, so the work is all rights reserved by its author. This fork exists under GitHub's Terms of Service, which permit forking within GitHub. Nothing here is redistributed, repackaged or released as a binary outside GitHub unless and until upstream declares a licence. We have asked upstream to declare one.",
+  "estate_license": "not applicable — no estate code added to this fork",
+  "policy": "https://github.com/minaiml"
+}
